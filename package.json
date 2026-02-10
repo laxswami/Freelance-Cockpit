@@ -17,7 +17,7 @@
   "author": "Luxsys",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.17.1",
+    "axios": "^1.13.5",
     "bootstrap-sass": "^3.3.5",
     "datatables.net-bs": "^1.10.16",
     "flatpickr": "^4.1.4",
