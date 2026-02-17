@@ -19,7 +19,7 @@
   "dependencies": {
     "axios": "^0.17.1",
     "bootstrap-sass": "^3.3.5",
-    "datatables.net-bs": "^1.10.16",
+    "datatables.net-bs": "^1.13.11",
     "flatpickr": "^4.1.4",
     "lodash.orderby": "^4.6.0",
     "phone-formatter": "0.0.2",
